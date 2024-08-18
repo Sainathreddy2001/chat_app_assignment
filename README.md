@@ -1,2 +1,2 @@
-# chat_app_assignment
-This is the real time chat application made using React, Express, Socket.io, Sql,typescript.
+# chat_app_realtime
+This is a real-time chat application built using React, Typescript, HTML, TailwindCSS, PostgreSQL, Node, Express, and Socket.io
